@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cheerlavanchasrivinaya/2211cs010097.git/static/css/main.f855e6bc.css",
+    "main.js": "/cheerlavanchasrivinaya/2211cs010097.git/static/js/main.be1c3387.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/cheerlavanchasrivinaya/2211cs010097.git/static/js/787.0f7dc5a1.chunk.js",
+    "static/media/logo.svg": "/cheerlavanchasrivinaya/2211cs010097.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cheerlavanchasrivinaya/2211cs010097.git/index.html",
+    "main.f855e6bc.css.map": "/cheerlavanchasrivinaya/2211cs010097.git/static/css/main.f855e6bc.css.map",
+    "main.be1c3387.js.map": "/cheerlavanchasrivinaya/2211cs010097.git/static/js/main.be1c3387.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/cheerlavanchasrivinaya/2211cs010097.git/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.be1c3387.js"
+  ]
+}
